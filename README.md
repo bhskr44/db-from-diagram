@@ -64,11 +64,11 @@ Example command:
 
 ### Setup
 Clone the repository
-git clone  https://github.com/linushaddai99/shaddai-soe-database.git
+git clone  https://github.com/linushaddai99/db-from-diagram.git
 
 ### Navigate to the folder
 
-cd shaddai-soe-database
+cd db-from-diagram
 
 
 
@@ -95,15 +95,16 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Linus Shaddai
+👤 **Bhaskar Ranjan Bora**
+
+- GitHub: [@bhskr44](https://github.com/bhskr44)
+- Twitter: [@bhskr44](https://twitter.com/bhskr44)
+- LinkedIn: [@bhskr44](https://linkedin.com/in/bhskr44)
+
+👤 **Linus Shaddai**
 GitHub: @linushaddai99
 Twitter: @linushaddai99
 LinkedIn: @linushaddai99
-
-
-👤 Soe Sandar Win
-GitHub: @soesandarwin2201
-LinkedIn: LinkedIn
 
 ## 🔭 Future Features <a name="future-features"></a>
 
