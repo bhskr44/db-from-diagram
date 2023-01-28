@@ -23,8 +23,7 @@
 
 # 📖 Clinic Database <a name="about-project"></a>
 
-![db-from-diagram](![image](https://user-images.githubusercontent.com/30873007/215274898-c688967d-eda3-47a1-9f6e-d7f653860388.png)
-)
+![image](https://user-images.githubusercontent.com/30873007/215274938-d551b337-f3a0-470b-b710-afd2c765cf3a.png))
 
 **Clinic Database** is a simple database that was created from the above database diagram.
 
