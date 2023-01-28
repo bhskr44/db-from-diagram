@@ -64,11 +64,11 @@ Example command:
 
 ### Setup
 Clone the repository
-git clone  https://github.com/linushaddai99/shaddai-soe-database.git
+git clone  https://github.com/linushaddai99/db-from-diagram.git
 
 ### Navigate to the folder
 
-cd shaddai-soe-database
+cd db-from-diagram
 
 
 
